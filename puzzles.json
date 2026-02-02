@@ -1,0 +1,22 @@
+{
+  "puzzles": [
+    {
+      "id": "wu-2026-02-09",
+      "startWord": "LAMP",
+      "endWord": "DARK",
+      "optimalSteps": 4,
+      "wordLength": 4,
+      "difficulty": "warmup",
+      "date": "2026-02-09"
+    },
+    {
+      "id": "dc-2026-02-09",
+      "startWord": "LIGHT",
+      "endWord": "NIGHT",
+      "optimalSteps": 4,
+      "wordLength": 5,
+      "difficulty": "challenge",
+      "date": "2026-02-09"
+    }
+  ]
+}
