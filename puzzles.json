@@ -1421,6 +1421,924 @@
       "wordLength": 5,
       "difficulty": "challenge",
       "date": "2026-04-20"
+    },
+    {
+      "id": "wu-2026-04-21",
+      "startWord": "CAT",
+      "endWord": "DOG",
+      "optimalSteps": 3,
+      "wordLength": 3,
+      "difficulty": "warmup",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "dc-2026-04-21",
+      "startWord": "SPRING",
+      "endWord": "WINTER",
+      "optimalSteps": 6,
+      "wordLength": 6,
+      "difficulty": "challenge",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "wu-2026-04-22",
+      "startWord": "LAMP",
+      "endWord": "BULB",
+      "optimalSteps": 4,
+      "wordLength": 4,
+      "difficulty": "warmup",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "dc-2026-04-22",
+      "startWord": "FLAME",
+      "endWord": "BLAZE",
+      "optimalSteps": 5,
+      "wordLength": 5,
+      "difficulty": "challenge",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "wu-2026-04-23",
+      "startWord": "SUN",
+      "endWord": "SKY",
+      "optimalSteps": 3,
+      "wordLength": 3,
+      "difficulty": "warmup",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "dc-2026-04-23",
+      "startWord": "FROZEN",
+      "endWord": "MOLTEN",
+      "optimalSteps": 6,
+      "wordLength": 6,
+      "difficulty": "challenge",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "wu-2026-04-24",
+      "startWord": "WARM",
+      "endWord": "COLD",
+      "optimalSteps": 3,
+      "wordLength": 4,
+      "difficulty": "warmup",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "dc-2026-04-24",
+      "startWord": "BEACH",
+      "endWord": "OCEAN",
+      "optimalSteps": 5,
+      "wordLength": 5,
+      "difficulty": "challenge",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "wu-2026-04-25",
+      "startWord": "HOT",
+      "endWord": "ICE",
+      "optimalSteps": 3,
+      "wordLength": 3,
+      "difficulty": "warmup",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "dc-2026-04-25",
+      "startWord": "SILVER",
+      "endWord": "GOLDEN",
+      "optimalSteps": 6,
+      "wordLength": 6,
+      "difficulty": "challenge",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "wu-2026-04-26",
+      "startWord": "BOOK",
+      "endWord": "PAGE",
+      "optimalSteps": 4,
+      "wordLength": 4,
+      "difficulty": "warmup",
+      "date": "2026-04-26"
+    },
+    {
+      "id": "dc-2026-04-26",
+      "startWord": "STORM",
+      "endWord": "CLOUD",
+      "optimalSteps": 4,
+      "wordLength": 5,
+      "difficulty": "challenge",
+      "date": "2026-04-26"
+    },
+    {
+      "id": "wu-2026-04-27",
+      "startWord": "OLD",
+      "endWord": "NEW",
+      "optimalSteps": 3,
+      "wordLength": 3,
+      "difficulty": "warmup",
+      "date": "2026-04-27"
+    },
+    {
+      "id": "dc-2026-04-27",
+      "startWord": "BOTTLE",
+      "endWord": "CANDLE",
+      "optimalSteps": 6,
+      "wordLength": 6,
+      "difficulty": "challenge",
+      "date": "2026-04-27"
+    },
+    {
+      "id": "wu-2026-04-28",
+      "startWord": "SONG",
+      "endWord": "BIRD",
+      "optimalSteps": 4,
+      "wordLength": 4,
+      "difficulty": "warmup",
+      "date": "2026-04-28"
+    },
+    {
+      "id": "dc-2026-04-28",
+      "startWord": "SWEET",
+      "endWord": "CANDY",
+      "optimalSteps": 5,
+      "wordLength": 5,
+      "difficulty": "challenge",
+      "date": "2026-04-28"
+    },
+    {
+      "id": "wu-2026-04-29",
+      "startWord": "DAY",
+      "endWord": "EVE",
+      "optimalSteps": 3,
+      "wordLength": 3,
+      "difficulty": "warmup",
+      "date": "2026-04-29"
+    },
+    {
+      "id": "dc-2026-04-29",
+      "startWord": "GENTLE",
+      "endWord": "FIERCE",
+      "optimalSteps": 6,
+      "wordLength": 6,
+      "difficulty": "challenge",
+      "date": "2026-04-29"
+    },
+    {
+      "id": "wu-2026-04-30",
+      "startWord": "LAKE",
+      "endWord": "POND",
+      "optimalSteps": 3,
+      "wordLength": 4,
+      "difficulty": "warmup",
+      "date": "2026-04-30"
+    },
+    {
+      "id": "dc-2026-04-30",
+      "startWord": "WATER",
+      "endWord": "STEAM",
+      "optimalSteps": 5,
+      "wordLength": 5,
+      "difficulty": "challenge",
+      "date": "2026-04-30"
+    },
+    {
+      "id": "wu-2026-05-01",
+      "startWord": "MAN",
+      "endWord": "BOY",
+      "optimalSteps": 3,
+      "wordLength": 3,
+      "difficulty": "warmup",
+      "date": "2026-05-01"
+    },
+    {
+      "id": "dc-2026-05-01",
+      "startWord": "GARDEN",
+      "endWord": "FOREST",
+      "optimalSteps": 6,
+      "wordLength": 6,
+      "difficulty": "challenge",
+      "date": "2026-05-01"
+    },
+    {
+      "id": "wu-2026-05-02",
+      "startWord": "STAR",
+      "endWord": "MOON",
+      "optimalSteps": 4,
+      "wordLength": 4,
+      "difficulty": "warmup",
+      "date": "2026-05-02"
+    },
+    {
+      "id": "dc-2026-05-02",
+      "startWord": "NIGHT",
+      "endWord": "DREAM",
+      "optimalSteps": 5,
+      "wordLength": 5,
+      "difficulty": "challenge",
+      "date": "2026-05-02"
+    },
+    {
+      "id": "wu-2026-05-03",
+      "startWord": "TOP",
+      "endWord": "LOW",
+      "optimalSteps": 3,
+      "wordLength": 3,
+      "difficulty": "warmup",
+      "date": "2026-05-03"
+    },
+    {
+      "id": "dc-2026-05-03",
+      "startWord": "MENTAL",
+      "endWord": "DENTAL",
+      "optimalSteps": 2,
+      "wordLength": 6,
+      "difficulty": "challenge",
+      "date": "2026-05-03"
+    },
+    {
+      "id": "wu-2026-05-04",
+      "startWord": "FIRE",
+      "endWord": "BURN",
+      "optimalSteps": 3,
+      "wordLength": 4,
+      "difficulty": "warmup",
+      "date": "2026-05-04"
+    },
+    {
+      "id": "dc-2026-05-04",
+      "startWord": "SWORD",
+      "endWord": "BLADE",
+      "optimalSteps": 4,
+      "wordLength": 5,
+      "difficulty": "challenge",
+      "date": "2026-05-04"
+    },
+    {
+      "id": "wu-2026-05-05",
+      "startWord": "RED",
+      "endWord": "TAN",
+      "optimalSteps": 3,
+      "wordLength": 3,
+      "difficulty": "warmup",
+      "date": "2026-05-05"
+    },
+    {
+      "id": "dc-2026-05-05",
+      "startWord": "BRIGHT",
+      "endWord": "LIGHTS",
+      "optimalSteps": 5,
+      "wordLength": 6,
+      "difficulty": "challenge",
+      "date": "2026-05-05"
+    },
+    {
+      "id": "wu-2026-05-06",
+      "startWord": "KING",
+      "endWord": "DUKE",
+      "optimalSteps": 4,
+      "wordLength": 4,
+      "difficulty": "warmup",
+      "date": "2026-05-06"
+    },
+    {
+      "id": "dc-2026-05-06",
+      "startWord": "CROWN",
+      "endWord": "ROYAL",
+      "optimalSteps": 5,
+      "wordLength": 5,
+      "difficulty": "challenge",
+      "date": "2026-05-06"
+    },
+    {
+      "id": "wu-2026-05-07",
+      "startWord": "WET",
+      "endWord": "DRY",
+      "optimalSteps": 3,
+      "wordLength": 3,
+      "difficulty": "warmup",
+      "date": "2026-05-07"
+    },
+    {
+      "id": "dc-2026-05-07",
+      "startWord": "HIDDEN",
+      "endWord": "REVEAL",
+      "optimalSteps": 6,
+      "wordLength": 6,
+      "difficulty": "challenge",
+      "date": "2026-05-07"
+    },
+    {
+      "id": "wu-2026-05-08",
+      "startWord": "HAND",
+      "endWord": "PALM",
+      "optimalSteps": 3,
+      "wordLength": 4,
+      "difficulty": "warmup",
+      "date": "2026-05-08"
+    },
+    {
+      "id": "dc-2026-05-08",
+      "startWord": "DREAM",
+      "endWord": "SLEEP",
+      "optimalSteps": 5,
+      "wordLength": 5,
+      "difficulty": "challenge",
+      "date": "2026-05-08"
+    },
+    {
+      "id": "wu-2026-05-09",
+      "startWord": "BED",
+      "endWord": "COT",
+      "optimalSteps": 3,
+      "wordLength": 3,
+      "difficulty": "warmup",
+      "date": "2026-05-09"
+    },
+    {
+      "id": "dc-2026-05-09",
+      "startWord": "FRIEND",
+      "endWord": "FAMILY",
+      "optimalSteps": 6,
+      "wordLength": 6,
+      "difficulty": "challenge",
+      "date": "2026-05-09"
+    },
+    {
+      "id": "wu-2026-05-10",
+      "startWord": "FISH",
+      "endWord": "SWIM",
+      "optimalSteps": 4,
+      "wordLength": 4,
+      "difficulty": "warmup",
+      "date": "2026-05-10"
+    },
+    {
+      "id": "dc-2026-05-10",
+      "startWord": "SHARK",
+      "endWord": "WHALE",
+      "optimalSteps": 5,
+      "wordLength": 5,
+      "difficulty": "challenge",
+      "date": "2026-05-10"
+    },
+    {
+      "id": "wu-2026-05-11",
+      "startWord": "CUP",
+      "endWord": "MUG",
+      "optimalSteps": 2,
+      "wordLength": 3,
+      "difficulty": "warmup",
+      "date": "2026-05-11"
+    },
+    {
+      "id": "dc-2026-05-11",
+      "startWord": "COFFEE",
+      "endWord": "DRINKS",
+      "optimalSteps": 6,
+      "wordLength": 6,
+      "difficulty": "challenge",
+      "date": "2026-05-11"
+    },
+    {
+      "id": "wu-2026-05-12",
+      "startWord": "CAKE",
+      "endWord": "BAKE",
+      "optimalSteps": 2,
+      "wordLength": 4,
+      "difficulty": "warmup",
+      "date": "2026-05-12"
+    },
+    {
+      "id": "dc-2026-05-12",
+      "startWord": "SUGAR",
+      "endWord": "SWEET",
+      "optimalSteps": 5,
+      "wordLength": 5,
+      "difficulty": "challenge",
+      "date": "2026-05-12"
+    },
+    {
+      "id": "wu-2026-05-13",
+      "startWord": "BAG",
+      "endWord": "BOX",
+      "optimalSteps": 3,
+      "wordLength": 3,
+      "difficulty": "warmup",
+      "date": "2026-05-13"
+    },
+    {
+      "id": "dc-2026-05-13",
+      "startWord": "SIMPLE",
+      "endWord": "DOUBLE",
+      "optimalSteps": 5,
+      "wordLength": 6,
+      "difficulty": "challenge",
+      "date": "2026-05-13"
+    },
+    {
+      "id": "wu-2026-05-14",
+      "startWord": "WALL",
+      "endWord": "DOOR",
+      "optimalSteps": 4,
+      "wordLength": 4,
+      "difficulty": "warmup",
+      "date": "2026-05-14"
+    },
+    {
+      "id": "dc-2026-05-14",
+      "startWord": "HOUSE",
+      "endWord": "HOMES",
+      "optimalSteps": 3,
+      "wordLength": 5,
+      "difficulty": "challenge",
+      "date": "2026-05-14"
+    },
+    {
+      "id": "wu-2026-05-15",
+      "startWord": "PEN",
+      "endWord": "INK",
+      "optimalSteps": 3,
+      "wordLength": 3,
+      "difficulty": "warmup",
+      "date": "2026-05-15"
+    },
+    {
+      "id": "dc-2026-05-15",
+      "startWord": "WRITER",
+      "endWord": "AUTHOR",
+      "optimalSteps": 6,
+      "wordLength": 6,
+      "difficulty": "challenge",
+      "date": "2026-05-15"
+    },
+    {
+      "id": "wu-2026-05-16",
+      "startWord": "ROAD",
+      "endWord": "PATH",
+      "optimalSteps": 3,
+      "wordLength": 4,
+      "difficulty": "warmup",
+      "date": "2026-05-16"
+    },
+    {
+      "id": "dc-2026-05-16",
+      "startWord": "TRAIL",
+      "endWord": "TRACK",
+      "optimalSteps": 4,
+      "wordLength": 5,
+      "difficulty": "challenge",
+      "date": "2026-05-16"
+    },
+    {
+      "id": "wu-2026-05-17",
+      "startWord": "HAT",
+      "endWord": "CAP",
+      "optimalSteps": 2,
+      "wordLength": 3,
+      "difficulty": "warmup",
+      "date": "2026-05-17"
+    },
+    {
+      "id": "dc-2026-05-17",
+      "startWord": "WINTER",
+      "endWord": "SUMMER",
+      "optimalSteps": 6,
+      "wordLength": 6,
+      "difficulty": "challenge",
+      "date": "2026-05-17"
+    },
+    {
+      "id": "wu-2026-05-18",
+      "startWord": "BIRD",
+      "endWord": "NEST",
+      "optimalSteps": 4,
+      "wordLength": 4,
+      "difficulty": "warmup",
+      "date": "2026-05-18"
+    },
+    {
+      "id": "dc-2026-05-18",
+      "startWord": "EAGLE",
+      "endWord": "HAWKS",
+      "optimalSteps": 5,
+      "wordLength": 5,
+      "difficulty": "challenge",
+      "date": "2026-05-18"
+    },
+    {
+      "id": "wu-2026-05-19",
+      "startWord": "GAS",
+      "endWord": "OIL",
+      "optimalSteps": 3,
+      "wordLength": 3,
+      "difficulty": "warmup",
+      "date": "2026-05-19"
+    },
+    {
+      "id": "dc-2026-05-19",
+      "startWord": "ENERGY",
+      "endWord": "POWERS",
+      "optimalSteps": 6,
+      "wordLength": 6,
+      "difficulty": "challenge",
+      "date": "2026-05-19"
+    },
+    {
+      "id": "wu-2026-05-20",
+      "startWord": "WIND",
+      "endWord": "BLOW",
+      "optimalSteps": 3,
+      "wordLength": 4,
+      "difficulty": "warmup",
+      "date": "2026-05-20"
+    },
+    {
+      "id": "dc-2026-05-20",
+      "startWord": "STORM",
+      "endWord": "RAINY",
+      "optimalSteps": 5,
+      "wordLength": 5,
+      "difficulty": "challenge",
+      "date": "2026-05-20"
+    },
+    {
+      "id": "wu-2026-05-21",
+      "startWord": "JAM",
+      "endWord": "JAR",
+      "optimalSteps": 2,
+      "wordLength": 3,
+      "difficulty": "warmup",
+      "date": "2026-05-21"
+    },
+    {
+      "id": "dc-2026-05-21",
+      "startWord": "BUTTER",
+      "endWord": "BREADS",
+      "optimalSteps": 6,
+      "wordLength": 6,
+      "difficulty": "challenge",
+      "date": "2026-05-21"
+    },
+    {
+      "id": "wu-2026-05-22",
+      "startWord": "BOAT",
+      "endWord": "SHIP",
+      "optimalSteps": 3,
+      "wordLength": 4,
+      "difficulty": "warmup",
+      "date": "2026-05-22"
+    },
+    {
+      "id": "dc-2026-05-22",
+      "startWord": "OCEAN",
+      "endWord": "WAVES",
+      "optimalSteps": 5,
+      "wordLength": 5,
+      "difficulty": "challenge",
+      "date": "2026-05-22"
+    },
+    {
+      "id": "wu-2026-05-23",
+      "startWord": "BUS",
+      "endWord": "CAR",
+      "optimalSteps": 3,
+      "wordLength": 3,
+      "difficulty": "warmup",
+      "date": "2026-05-23"
+    },
+    {
+      "id": "dc-2026-05-23",
+      "startWord": "DRIVER",
+      "endWord": "MOTORS",
+      "optimalSteps": 6,
+      "wordLength": 6,
+      "difficulty": "challenge",
+      "date": "2026-05-23"
+    },
+    {
+      "id": "wu-2026-05-24",
+      "startWord": "BALL",
+      "endWord": "KICK",
+      "optimalSteps": 4,
+      "wordLength": 4,
+      "difficulty": "warmup",
+      "date": "2026-05-24"
+    },
+    {
+      "id": "dc-2026-05-24",
+      "startWord": "SPORT",
+      "endWord": "GAMES",
+      "optimalSteps": 5,
+      "wordLength": 5,
+      "difficulty": "challenge",
+      "date": "2026-05-24"
+    },
+    {
+      "id": "wu-2026-05-25",
+      "startWord": "LEG",
+      "endWord": "ARM",
+      "optimalSteps": 3,
+      "wordLength": 3,
+      "difficulty": "warmup",
+      "date": "2026-05-25"
+    },
+    {
+      "id": "dc-2026-05-25",
+      "startWord": "MUSCLE",
+      "endWord": "STRONG",
+      "optimalSteps": 6,
+      "wordLength": 6,
+      "difficulty": "challenge",
+      "date": "2026-05-25"
+    },
+    {
+      "id": "wu-2026-05-26",
+      "startWord": "TREE",
+      "endWord": "LEAF",
+      "optimalSteps": 3,
+      "wordLength": 4,
+      "difficulty": "warmup",
+      "date": "2026-05-26"
+    },
+    {
+      "id": "dc-2026-05-26",
+      "startWord": "GRASS",
+      "endWord": "GREEN",
+      "optimalSteps": 4,
+      "wordLength": 5,
+      "difficulty": "challenge",
+      "date": "2026-05-26"
+    },
+    {
+      "id": "wu-2026-05-27",
+      "startWord": "EGG",
+      "endWord": "HEN",
+      "optimalSteps": 3,
+      "wordLength": 3,
+      "difficulty": "warmup",
+      "date": "2026-05-27"
+    },
+    {
+      "id": "dc-2026-05-27",
+      "startWord": "FARMER",
+      "endWord": "FIELDS",
+      "optimalSteps": 6,
+      "wordLength": 6,
+      "difficulty": "challenge",
+      "date": "2026-05-27"
+    },
+    {
+      "id": "wu-2026-05-28",
+      "startWord": "RING",
+      "endWord": "BELL",
+      "optimalSteps": 3,
+      "wordLength": 4,
+      "difficulty": "warmup",
+      "date": "2026-05-28"
+    },
+    {
+      "id": "dc-2026-05-28",
+      "startWord": "PHONE",
+      "endWord": "CALLS",
+      "optimalSteps": 5,
+      "wordLength": 5,
+      "difficulty": "challenge",
+      "date": "2026-05-28"
+    },
+    {
+      "id": "wu-2026-05-29",
+      "startWord": "KEY",
+      "endWord": "JAW",
+      "optimalSteps": 3,
+      "wordLength": 3,
+      "difficulty": "warmup",
+      "date": "2026-05-29"
+    },
+    {
+      "id": "dc-2026-05-29",
+      "startWord": "LOCKED",
+      "endWord": "OPENED",
+      "optimalSteps": 6,
+      "wordLength": 6,
+      "difficulty": "challenge",
+      "date": "2026-05-29"
+    },
+    {
+      "id": "wu-2026-05-30",
+      "startWord": "GOLD",
+      "endWord": "COIN",
+      "optimalSteps": 4,
+      "wordLength": 4,
+      "difficulty": "warmup",
+      "date": "2026-05-30"
+    },
+    {
+      "id": "dc-2026-05-30",
+      "startWord": "MONEY",
+      "endWord": "BANKS",
+      "optimalSteps": 5,
+      "wordLength": 5,
+      "difficulty": "challenge",
+      "date": "2026-05-30"
+    },
+    {
+      "id": "wu-2026-05-31",
+      "startWord": "FOX",
+      "endWord": "DEN",
+      "optimalSteps": 3,
+      "wordLength": 3,
+      "difficulty": "warmup",
+      "date": "2026-05-31"
+    },
+    {
+      "id": "dc-2026-05-31",
+      "startWord": "HUNTER",
+      "endWord": "CHASES",
+      "optimalSteps": 6,
+      "wordLength": 6,
+      "difficulty": "challenge",
+      "date": "2026-05-31"
+    },
+    {
+      "id": "wu-2026-06-01",
+      "startWord": "ROCK",
+      "endWord": "SAND",
+      "optimalSteps": 4,
+      "wordLength": 4,
+      "difficulty": "warmup",
+      "date": "2026-06-01"
+    },
+    {
+      "id": "dc-2026-06-01",
+      "startWord": "STONE",
+      "endWord": "BRICK",
+      "optimalSteps": 5,
+      "wordLength": 5,
+      "difficulty": "challenge",
+      "date": "2026-06-01"
+    },
+    {
+      "id": "wu-2026-06-02",
+      "startWord": "ANT",
+      "endWord": "BEE",
+      "optimalSteps": 3,
+      "wordLength": 3,
+      "difficulty": "warmup",
+      "date": "2026-06-02"
+    },
+    {
+      "id": "dc-2026-06-02",
+      "startWord": "INSECT",
+      "endWord": "SPIDER",
+      "optimalSteps": 6,
+      "wordLength": 6,
+      "difficulty": "challenge",
+      "date": "2026-06-02"
+    },
+    {
+      "id": "wu-2026-06-03",
+      "startWord": "JUMP",
+      "endWord": "LEAP",
+      "optimalSteps": 3,
+      "wordLength": 4,
+      "difficulty": "warmup",
+      "date": "2026-06-03"
+    },
+    {
+      "id": "dc-2026-06-03",
+      "startWord": "SPRINT",
+      "endWord": "RUNNER",
+      "optimalSteps": 6,
+      "wordLength": 6,
+      "difficulty": "challenge",
+      "date": "2026-06-03"
+    },
+    {
+      "id": "wu-2026-06-04",
+      "startWord": "RUN",
+      "endWord": "JOG",
+      "optimalSteps": 3,
+      "wordLength": 3,
+      "difficulty": "warmup",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "dc-2026-06-04",
+      "startWord": "FASTER",
+      "endWord": "SLOWER",
+      "optimalSteps": 5,
+      "wordLength": 6,
+      "difficulty": "challenge",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "wu-2026-06-05",
+      "startWord": "CHEF",
+      "endWord": "COOK",
+      "optimalSteps": 3,
+      "wordLength": 4,
+      "difficulty": "warmup",
+      "date": "2026-06-05"
+    },
+    {
+      "id": "dc-2026-06-05",
+      "startWord": "MEALS",
+      "endWord": "FEAST",
+      "optimalSteps": 5,
+      "wordLength": 5,
+      "difficulty": "challenge",
+      "date": "2026-06-05"
+    },
+    {
+      "id": "wu-2026-06-06",
+      "startWord": "PIE",
+      "endWord": "CUT",
+      "optimalSteps": 3,
+      "wordLength": 3,
+      "difficulty": "warmup",
+      "date": "2026-06-06"
+    },
+    {
+      "id": "dc-2026-06-06",
+      "startWord": "DINNER",
+      "endWord": "SUPPER",
+      "optimalSteps": 5,
+      "wordLength": 6,
+      "difficulty": "challenge",
+      "date": "2026-06-06"
+    },
+    {
+      "id": "wu-2026-06-07",
+      "startWord": "HERO",
+      "endWord": "SAVE",
+      "optimalSteps": 4,
+      "wordLength": 4,
+      "difficulty": "warmup",
+      "date": "2026-06-07"
+    },
+    {
+      "id": "dc-2026-06-07",
+      "startWord": "BRAVE",
+      "endWord": "VALOR",
+      "optimalSteps": 5,
+      "wordLength": 5,
+      "difficulty": "challenge",
+      "date": "2026-06-07"
+    },
+    {
+      "id": "wu-2026-06-08",
+      "startWord": "WAR",
+      "endWord": "GUN",
+      "optimalSteps": 3,
+      "wordLength": 3,
+      "difficulty": "warmup",
+      "date": "2026-06-08"
+    },
+    {
+      "id": "dc-2026-06-08",
+      "startWord": "BATTLE",
+      "endWord": "COMBAT",
+      "optimalSteps": 6,
+      "wordLength": 6,
+      "difficulty": "challenge",
+      "date": "2026-06-08"
+    },
+    {
+      "id": "wu-2026-06-09",
+      "startWord": "MOON",
+      "endWord": "GLOW",
+      "optimalSteps": 4,
+      "wordLength": 4,
+      "difficulty": "warmup",
+      "date": "2026-06-09"
+    },
+    {
+      "id": "dc-2026-06-09",
+      "startWord": "STARS",
+      "endWord": "SPACE",
+      "optimalSteps": 5,
+      "wordLength": 5,
+      "difficulty": "challenge",
+      "date": "2026-06-09"
+    },
+    {
+      "id": "wu-2026-06-10",
+      "startWord": "ZEN",
+      "endWord": "YIN",
+      "optimalSteps": 3,
+      "wordLength": 3,
+      "difficulty": "warmup",
+      "date": "2026-06-10"
+    },
+    {
+      "id": "dc-2026-06-10",
+      "startWord": "WISDOM",
+      "endWord": "MASTER",
+      "optimalSteps": 6,
+      "wordLength": 6,
+      "difficulty": "challenge",
+      "date": "2026-06-10"
     }
   ]
 }
