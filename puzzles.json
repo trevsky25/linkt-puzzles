@@ -1,6 +1,150 @@
 {
   "puzzles": [
     {
+      "id": "wu-2026-02-01",
+      "startWord": "FIRE",
+      "endWord": "COLD",
+      "optimalSteps": 4,
+      "wordLength": 4,
+      "difficulty": "warmup",
+      "date": "2026-02-01"
+    },
+    {
+      "id": "dc-2026-02-01",
+      "startWord": "STORM",
+      "endWord": "SHINE",
+      "optimalSteps": 5,
+      "wordLength": 5,
+      "difficulty": "challenge",
+      "date": "2026-02-01"
+    },
+    {
+      "id": "wu-2026-02-02",
+      "startWord": "HEAD",
+      "endWord": "FOOT",
+      "optimalSteps": 4,
+      "wordLength": 4,
+      "difficulty": "warmup",
+      "date": "2026-02-02"
+    },
+    {
+      "id": "dc-2026-02-02",
+      "startWord": "BRAIN",
+      "endWord": "HEART",
+      "optimalSteps": 5,
+      "wordLength": 5,
+      "difficulty": "challenge",
+      "date": "2026-02-02"
+    },
+    {
+      "id": "wu-2026-02-03",
+      "startWord": "LOVE",
+      "endWord": "HATE",
+      "optimalSteps": 3,
+      "wordLength": 4,
+      "difficulty": "warmup",
+      "date": "2026-02-03"
+    },
+    {
+      "id": "dc-2026-02-03",
+      "startWord": "SLEEP",
+      "endWord": "DREAM",
+      "optimalSteps": 5,
+      "wordLength": 5,
+      "difficulty": "challenge",
+      "date": "2026-02-03"
+    },
+    {
+      "id": "wu-2026-02-04",
+      "startWord": "DARK",
+      "endWord": "LAMP",
+      "optimalSteps": 4,
+      "wordLength": 4,
+      "difficulty": "warmup",
+      "date": "2026-02-04"
+    },
+    {
+      "id": "dc-2026-02-04",
+      "startWord": "EARTH",
+      "endWord": "SPACE",
+      "optimalSteps": 6,
+      "wordLength": 5,
+      "difficulty": "challenge",
+      "date": "2026-02-04"
+    },
+    {
+      "id": "wu-2026-02-05",
+      "startWord": "WINE",
+      "endWord": "BEER",
+      "optimalSteps": 4,
+      "wordLength": 4,
+      "difficulty": "warmup",
+      "date": "2026-02-05"
+    },
+    {
+      "id": "dc-2026-02-05",
+      "startWord": "BREAD",
+      "endWord": "TOAST",
+      "optimalSteps": 4,
+      "wordLength": 5,
+      "difficulty": "challenge",
+      "date": "2026-02-05"
+    },
+    {
+      "id": "wu-2026-02-06",
+      "startWord": "FISH",
+      "endWord": "BIRD",
+      "optimalSteps": 4,
+      "wordLength": 4,
+      "difficulty": "warmup",
+      "date": "2026-02-06"
+    },
+    {
+      "id": "dc-2026-02-06",
+      "startWord": "TIGER",
+      "endWord": "HORSE",
+      "optimalSteps": 5,
+      "wordLength": 5,
+      "difficulty": "challenge",
+      "date": "2026-02-06"
+    },
+    {
+      "id": "wu-2026-02-07",
+      "startWord": "GOLD",
+      "endWord": "CASH",
+      "optimalSteps": 4,
+      "wordLength": 4,
+      "difficulty": "warmup",
+      "date": "2026-02-07"
+    },
+    {
+      "id": "dc-2026-02-07",
+      "startWord": "MONEY",
+      "endWord": "PENNY",
+      "optimalSteps": 4,
+      "wordLength": 5,
+      "difficulty": "challenge",
+      "date": "2026-02-07"
+    },
+    {
+      "id": "wu-2026-02-08",
+      "startWord": "RAIN",
+      "endWord": "SNOW",
+      "optimalSteps": 4,
+      "wordLength": 4,
+      "difficulty": "warmup",
+      "date": "2026-02-08"
+    },
+    {
+      "id": "dc-2026-02-08",
+      "startWord": "CLOUD",
+      "endWord": "STORM",
+      "optimalSteps": 4,
+      "wordLength": 5,
+      "difficulty": "challenge",
+      "date": "2026-02-08"
+    },
+    {
       "id": "wu-2026-02-09",
       "startWord": "LAMP",
       "endWord": "DARK",
